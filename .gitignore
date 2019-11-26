@@ -1,0 +1,27 @@
+*.iml
+target
+.idea
+.settings
+.vscode
+.classpath
+.project
+*.iws
+*.ipr
+.DS_Store
+*.log.*
+*.log
+logs
+src/main/resources/templates/*
+src/main/resources/static/*
+src/main/resources/report.html
+node_modules/
+
+.settings
+.classpath
+.project
+
+# jest report
+coverage
+
+webapp/.cache
+metastore_db/
